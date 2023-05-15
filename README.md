@@ -1,6 +1,6 @@
 # Simple Todo List Application
 
-A simple ToDo List Application implemented using React, TypeScript, and Webpack to help you manage your tasks by adding new tasks, marking tasks as completed, and listing all tasks with their completion status.
+A simple Todo List Application implemented using React, TypeScript, and Webpack to help you manage your tasks by adding new tasks, marking tasks as completed, and listing all tasks with their completion status.
 
 ## Features
 - Adds new tasks
