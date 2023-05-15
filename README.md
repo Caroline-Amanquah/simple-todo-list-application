@@ -3,10 +3,10 @@
 A simple ToDo List Application implemented using React, TypeScript, and Webpack to help you manage your tasks by adding new tasks, marking tasks as completed, and listing all tasks with their completion status.
 
 ## Features
-- Add new tasks
+- Adds new tasks
 - Mark tasks as completed
 - List all tasks with their completion status
-- Delete tasks when necessary
+- Deletes tasks when necessary
 
 ## Dependencies
 - React
