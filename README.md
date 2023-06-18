@@ -35,4 +35,4 @@ A simple Todo List Application implemented using React, TypeScript, and Webpack 
 ```
 ➜ npm run start
 ```
-5. Open your browser and navigate to [http://localhost:3000/](http://localhost:3000/) to access the application.
+5. Open your browser and navigate to [http://localhost:3000/](http://localhost:3000/) to access the application. Alternatively, you can access the application at https://main--todo-list-application-2023.netlify.app/. Netify was used to deploy the application.
