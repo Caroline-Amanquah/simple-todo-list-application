@@ -1,0 +1,59 @@
+/* App.css */
+
+/* Style for the container div */
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style for the header */
+  h1 {
+    color: #333;
+  }
+  
+  /* Style for the input */
+  input[type="text"] {
+    margin: 0.5em 0;
+    padding: 0.5em;
+    width: 200px;
+  }
+  
+  /* Style for the Add button */
+  button {
+    padding: 0.5em 1em;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 1em;
+  }
+  
+  /* Style for the Delete button */
+  .delete-btn {
+    padding: 0.25em 0.5em;
+    background-color: #dc3545;
+    margin-left: 1em;
+  }
+  
+  /* Style for the list */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Style for the list items */
+  li {
+    margin-bottom: 0.5em;
+  }
+  
+  /* Style for the completed text */
+  .completed {
+    text-decoration: line-through;
+  }
+  
+  
